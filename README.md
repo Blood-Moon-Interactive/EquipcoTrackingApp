@@ -35,7 +35,7 @@ Automatic status updates to "Needs Repair" or "Under Repair" to trigger maintena
 Visual breakdown of total inventory by category.
 Real-time tracking of currently checked-out items and items flagged for repair.
 
-🛠 Technical Stack
+TECHNICAL STACK
 
 Platform: Microsoft Power Apps (Canvas App).
 Data Source: SharePoint Lists.
