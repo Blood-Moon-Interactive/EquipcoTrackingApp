@@ -1,12 +1,12 @@
 Equipco Tracking App
 
-📝 Project Overview
+PROJECT OVERVIEW
 
 The Equipco Tracking App is a professional-grade Power Apps solution designed to centralize and streamline the management of company-owned equipment. Developed to replace manual, fragmented tracking methods, the application provides 
 a transparent audit trail for assets ranging from IT hardware like laptops and monitors to specialized specialty tools. The goal is to improve accountability, reduce equipment loss, and provide management with real-time insights 
 into the lifecycle and condition of all assets.
 
-🎯 Business Objectives
+BUSINESS OBJECTIVES
 
 Accountability: Establish a consistent method for tracking item possession and condition.
 
@@ -16,7 +16,7 @@ Automation: Replace manual workflows for checkout confirmation and damage report
 
 Accessibility: Enable employees to reserve and check out items quickly from any device.
 
-✨ Key Features
+KEY FEATURES
 
 1. Equipment Inventory Management
 Maintains a master list of equipment including item names, categories, and current status.
@@ -41,7 +41,7 @@ Platform: Microsoft Power Apps (Canvas App).
 Data Source: SharePoint Lists.
 UI/UX: Designed for ease of use with clear visual indicators (colors/icons) for status.
 
-🧠 Lessons Learned & Technical Challenges
+LESSONS LEARNED
 
 Handling Data Delegation
 One of the primary challenges was calculating the "Grand Total" of equipment value from SharePoint. Using the standard Sum() function triggered delegation warnings, meaning the app would only calculate totals for the first 500–2,000 items.
